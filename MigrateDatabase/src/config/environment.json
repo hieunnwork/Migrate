@@ -1,0 +1,384 @@
+{
+  "DB_INFORMATION": {
+    "SQL_SERVER_URL": 3306,
+    "SQL_SERVER_USER": "QQ",
+    "SQL_SERVER_PASSWORD": "123456!",
+    "PGS_SERVER_URL": 3306,
+    "PGS_SERVER_USER": "QQ",
+    "PGS_SERVER_PASSWORD": "123456!"
+  },
+  "TABLE_INFORMATION": [
+    {
+      "NumberColumns": 0,
+      "TableName": "ana_del_accumulation_news"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "ana_news"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "ana_news_analysis_result"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "ana_news_file_output_control"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "ana_news_genre"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "ana_news_pop_qik_create_setting"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "ana_news_quote"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "ana_news_rel_news"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "ana_news_relation_score"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "ana_news_topic"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "ana_news_view_count"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "ana_news_word"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "ana_one_line_news"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "ana_one_line_news_analysis_result"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "ana_one_line_news_link"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "ana_qacode_type_def"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "ana_quote_to_keyword"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "ana_rel_news_create_setting"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "ana_rel_news_lb_setting"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "batch_execution_status"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "del_tbl_cnt"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "error_check"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "event"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "event_to_quote"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_country"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_country_item"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "m_currency"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "m_definition"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "m_event_name"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "m_event_type"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "m_item"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_mapping_event_name"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_mapping_text"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "m_navigenre"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "m_news_filter"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "m_news_filter_id_seq"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "m_opt_info"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "m_person"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_person_item"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_proper_noun"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "m_quote_bond"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "m_quote_commodity"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "m_quote_currency"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "m_quote_event"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "m_quote_fund"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_quote_group"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_quote_index"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "m_quote_item_bond"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "m_quote_item_commodity"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "m_quote_item_currency"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "m_quote_item_fund"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "m_quote_item_index"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_quote_item_other"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_quote_item_qrfn"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "m_quote_item_rate"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "m_quote_item_stock"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "m_quote_name"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "m_quote_other"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "m_quote_qrfn"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_quote_rate"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_quote_stock"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "m_quote_stock_attr"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "m_quote_stock_attr_search"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "m_rel_to_keyword"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "m_rel_to_keyword_ng"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "m_shako_conv"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_source_conv"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_synonym"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "m_term"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "m_term_group"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "m_term_item"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "m_term_supply"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "m_theme"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "m_view"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "m_view_item"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "news_quote"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "news_word_1"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "ng_topic"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "quote_keyword_sum"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "quote_to_keyword"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "quote_to_keyword_mid"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "quote_to_news"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "quote_to_quote"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "quote_to_quote_mid"
+    },
+    {
+      "NumberColumns": 0,
+      "TableName": "related_word"
+    },
+    {
+      "NumberColumns": 1,
+      "TableName": "suggest"
+    },
+    {
+      "NumberColumns": 2,
+      "TableName": "topic"
+    },
+    {
+      "NumberColumns": 3,
+      "TableName": "topic_cluster"
+    },
+    {
+      "NumberColumns": 4,
+      "TableName": "word"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "word_1"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "word_2"
+    },
+    {
+      "NumberColumns": 5,
+      "TableName": "word_3"
+    },
+    {
+      "NumberColumns": 6,
+      "TableName": "word_word_id_seq"
+    }
+  ]
+}
